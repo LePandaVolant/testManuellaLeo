@@ -3,7 +3,11 @@ bonjour1
 bonjour2
 bonjour3
 bonjour4
+<<<<<<< HEAD
 bonjour58555
+=======
+bonjour54642313
+>>>>>>> ea39892c0fba0d82080233fe116dadb5b1900d0b
 bonjour6
 bonjour7
 bonjour8
